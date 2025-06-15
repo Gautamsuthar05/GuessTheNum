@@ -22,7 +22,12 @@ button {
   border: 1px solid black;
   border-radius: 4px;
 }
-
+button:hover {
+  cursor: pointer;
+}
+#newgamee:hover {
+  cursor: pointer;
+}
 .result {
   font-size: 12px;
 }
